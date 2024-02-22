@@ -1,6 +1,0 @@
-alert("welcome to github")
-alert("Error! Please enter valid password.")
-alert("Welcome To JS Coding...")
-alert("Welcome To JS Land...")
-alert("Happy Coding!")
-alert("Hello... I can JS through my web browser's console")
